@@ -1,1 +1,5 @@
+# For Complete Black Box testing
+https://offsecexams.com/cheatsheets/zero-credential-domain-mapping
 
+# For Assume Breaching Technique
+https://offsecexams.com/cheatsheets/crtp-exam---guided-by-redblock
